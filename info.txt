@@ -1,1 +1,1 @@
-Item=Arrow#Наліпки#0#arrow_back.png#10#10#72.5#72.5
+Item:Arrow#Наліпки#0#arrow_back.png#10#10#72.5#72.5
