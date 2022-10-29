@@ -1,3 +1,3 @@
 Folder#Наліпки#10.0#10.0#72.5#72.5
 Item#Thank you Pink#Наліпки#9#ty_pink.png#10.0#10.0#72.5#72.5
-Item#Thank you Gold#Наліпки#18#ty_gold.png#95.0#10.0#72.5#72.5
+Item#Thank you Gold#Наліпки#27#ty_gold.png#95.0#10.0#72.5#72.5
