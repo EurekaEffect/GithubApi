@@ -1,3 +1,3 @@
-Folder|Наліпки
 Item|Thank you Pink|Наліпки|45|ty_pink.png
 Item|Thank you Gold|Наліпки|45|ty_gold.png
+Item|ricky|none|5|C:\Users\Eureka\Downloads\7802.jpg
