@@ -1,4 +1,5 @@
 Item|Thank you Pink|Наліпки|45|ty_pink.png
 Item|Thank you Gold|Наліпки|45|ty_gold.png
-Item|ricky|none|5|7802.jpg
-Item|aboba|none|7|harvest.jpg
+Item|ricky|none|11|7802.jpg
+Item|aboba|none|11|harvest.jpg
+Item|egor|none|1|unknown.png
