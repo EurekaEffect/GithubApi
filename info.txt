@@ -1,6 +1,2 @@
 Item|Thank you Pink|Наліпки|45|ty_pink.png
 Item|Thank you Gold|Наліпки|45|ty_gold.png
-Item|nnn|none|0|background.png
-Item|nnin|none|0|preview.png
-Item|g|none|0|background.png
-Item|gg|none|0|button.png
