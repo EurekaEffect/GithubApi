@@ -1,2 +1,6 @@
 Item|Thank you Pink|Наліпки|45|ty_pink.png
 Item|Thank you Gold|Наліпки|45|ty_gold.png
+Item|egor|none|1|unknown.png
+Item|rect|none|2|rectangle_plus.png
+Item|back|none|3|background.png
+Item|eml|none|4|empty_image.png
