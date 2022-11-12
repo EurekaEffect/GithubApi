@@ -1,6 +1,2 @@
-Item|Thank you Gold|Рулони|2|908748991.png
-Item|Thank you Pink|Рулони|3|682039289.png
-Item|Thank you Next|Рулони|2|478660353.png
-Item|bruh|Наліпки|9|874125114.png
 Folder|Наліпки|
 Folder|Рулони|
