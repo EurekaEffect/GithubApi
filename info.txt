@@ -1,4 +1,5 @@
-Item|Thank you Gold|Р СѓР»РѕРЅРё|5|ty_gold.png
-Item|Thank you Pink|Р СѓР»РѕРЅРё|8|ty_pink.png
-Folder|РќР°Р»С–РїРєРё|
-Folder|Р СѓР»РѕРЅРё|
+Item|Thank you Gold|Рулони|5|ty_gold.png
+Item|Thank you Pink|Рулони|8|ty_pink.png
+Item|dwada|Рулони|0|unknown.png
+Folder|Наліпки|
+Folder|Рулони|
