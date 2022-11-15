@@ -1,5 +1,5 @@
 Item|Thank you Gold|Рулони|6|ty_gold.png
 Item|Thank you Pink|Рулони|19|ty_pink.png
-Item|Thank you Pink|Рулони|19|bruh2.png
+Item|Thank you Pink|Рулони|19|brehur.png
 Folder|Рулони
 Folder|5125
