@@ -1,6 +1,4 @@
 Item|Thank you Gold|Рулони|6|ty_gold.png
 Item|Thank you Pink|Рулони|19|ty_pink.png
-Item|4124|Рулони|5|larpforce.png
-Item|25125|5125|5|chams.jpg
 Folder|Рулони
 Folder|5125
