@@ -1,13 +1,4 @@
 Item|Thank you Gold|Рулони|6|ty_gold.png
 Item|Thank you Pink|Рулони|19|ty_pink.png
-Item|кеівппі|ролдж|45645|1664275735444.png
-Item|еанпнгг|ролдж|59|sticat shop.png
 Folder|Наліпки
 Folder|Рулони
-Folder|ролдж
-Folder|вапролд
-Folder|вапролд
-Folder|вапролд
-Folder|вапролд
-Folder|вапролд
-Folder|вапролд
