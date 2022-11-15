@@ -1,5 +1,4 @@
 Item|Thank you Gold|Рулони|5|ty_gold.png
 Item|Thank you Pink|Рулони|8|ty_pink.png
-Item|dwadad|Рулони|7|ty_pink.png
 Folder|Наліпки
 Folder|Рулони
