@@ -1,4 +1,5 @@
 Item|Thank you Gold|Рулони|6|ty_gold.png
 Item|Thank you Pink|Рулони|19|ty_pink.png
+Item|dadaw|Наліпки|6|larpforce.png
 Folder|Наліпки
 Folder|Рулони
