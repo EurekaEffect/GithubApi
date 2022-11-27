@@ -1,5 +1,8 @@
-Item|Thank you ігп|Рулони|6|ty_gold.png
-Item|Thank you Pink|Рулони|19|ty_pink.png
+Item|Thank you Gold bg|Рулони|6|ty_gold.png
+Item|Thank you Pink flat|Рулони|19|ty_pink.png
+Item|Hand Made hands heart|Рулони|0|hand made hands heart.jpg
+Item|Hand Made with love heart Craft|Рулони|0|hand made with love heart craft.jpg
+Item|Handmade with love Craft|Рулони|0|handmade with love craft.jpg
+Item|Handmade with love White Gold|Рулони|0|handmade with love white gold.jpg
+Item|Thank you 4 colors flat|Рулони|0|thank you 4 colors flat.jpg
 Folder|Рулони
-Folder|5125
-Folder|46578
