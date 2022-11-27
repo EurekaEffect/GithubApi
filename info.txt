@@ -16,4 +16,5 @@ Item|Thank you Different|Рулони|0|thank you different.jpg
 Item|Thank you Flowers Different|Рулони|0|thank you flowers different.jpg
 Item|Thank you Flowers|Рулони|0|thank you flowers.jpg
 Item|Thank you Gold bg|Рулони|0|thank you gold bg.jpg
+Item|test only|Рулони|0|test_with_spaces.png
 Folder|Рулони
