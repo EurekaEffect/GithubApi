@@ -16,4 +16,7 @@ Item|Thank you Flowers Different|Рулони|0|thank%20you%20flowers%20differen
 Item|Thank you Flowers|Рулони|0|thank%20you%20flowers.jpg
 Item|Thank you Gold bg|Рулони|0|thank%20you%20gold%20bg.jpg
 Item|Hand Made with love heart Craft|Рулони|0|hand_made_with_love_heart_craft.jpg
+Item|Red Heart shape|Рулони|0|red heart shape.jpg
+Item|Thank you for order Gradient|Рулони|0|thank you for order gradient.jpg
+Item|Thank you Gold Heart shape|Рулони|0|thank you gold heart shape.jpg
 Folder|Рулони
