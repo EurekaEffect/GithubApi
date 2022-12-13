@@ -12,7 +12,7 @@ Item|Thank you Craft|Рулони|12|thank%20you%20craft.jpg
 Item|Thank you Cyan flat|Рулони|0|thank%20you%20cyan%20flat.jpg
 Item|Thank you Different low|Рулони|1|thank%20you%20different%20low.jpg
 Item|Thank you Different|Рулони|0|thank%20you%20different.jpg
-Item|Thank you Flowers Different|Рулони|2|thank%20you%20flowers%20different.jpg
+Item|Thank you Flowers Different|Рулони|1|thank%20you%20flowers%20different.jpg
 Item|Thank you Flowers|Рулони|1|thank%20you%20flowers.jpg
 Item|Hand Made with love heart Craft|Рулони|1|hand_made_with_love_heart_craft.jpg
 Item|Red Heart shape|Рулони|9|red%20heart%20shape.jpg
@@ -24,7 +24,7 @@ Item|Thank you hand heart|Рулони|1|thank%20you%20hand%20heart.jpg
 Item|Thank you Handmade special|Рулони|1|thank%20you%20handmade%20special.jpg
 Item|Thank you heart BW|Рулони|0|thank%20you%20heart%20bw.jpg
 Item|Thank you heart Craft|Рулони|0|thank%20you%20heart%20craft.jpg
-Item|Thank you Pattern|Рулони|1|thank%20you%20pattern.jpg
+Item|Thank you Pattern|Рулони|0|thank%20you%20pattern.jpg
 Item|Thank you Pink gold flat|Рулони|7|thank%20you%20pink%20gold%20flat.jpg
 Item|Thank you Pink heart leaves|Рулони|0|thank%20you%20pink%20heart%20leaves.jpg
 Item|Thank you Rose gold heart|Рулони|0|thank%20you%20rose%20gold%20heart.jpg
