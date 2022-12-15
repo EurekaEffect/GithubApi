@@ -1,7 +1,7 @@
-Item|Thank you Gold bg|Рулони|1|ty_gold.png
+Item|Thank you Gold bg|Рулони|0|ty_gold.png
 Item|Thank you Pink flat|Рулони|0|ty_pink.png
 Item|Hand Made hands heart|Рулони|2|hand_made_hands_heart.jpg
-Item|Handmade with love Craft|Рулони|5|handmade%20with%20love%20craft.jpg
+Item|Handmade with love Craft|Рулони|4|handmade%20with%20love%20craft.jpg
 Item|Handmade with love White Gold|Рулони|1|handmade%20with%20love%20white%20gold.jpg
 Item|Thank you 4 colors flat|Рулони|0|thank%20you%204%20colors%20flat.jpg
 Item|Thank you Black flat|Рулони|7|thank%20you%20black%20flat.jpg
@@ -25,12 +25,12 @@ Item|Thank you Handmade special|Рулони|1|thank%20you%20handmade%20special.
 Item|Thank you heart BW|Рулони|0|thank%20you%20heart%20bw.jpg
 Item|Thank you heart Craft|Рулони|0|thank%20you%20heart%20craft.jpg
 Item|Thank you Pattern|Рулони|0|thank%20you%20pattern.jpg
-Item|Thank you Pink gold flat|Рулони|7|thank%20you%20pink%20gold%20flat.jpg
-Item|Thank you Pink heart leaves|Рулони|0|thank%20you%20pink%20heart%20leaves.jpg
+Item|Thank you Pink gold flat|Рулони|5|thank%20you%20pink%20gold%20flat.jpg
+Item|Thank you Pink heart leaves|Рулони|2|thank%20you%20pink%20heart%20leaves.jpg
 Item|Thank you Rose gold heart|Рулони|0|thank%20you%20rose%20gold%20heart.jpg
 Item|Thank you Rose gold|Рулони|3|thank%20you%20rose%20gold.jpg
 Item|Thank you Spray bg|Рулони|4|thank%20you%20spray%20bg.jpg
-Item|Thank you Wedding|Рулони|2|thank%20you%20wedding.jpg
+Item|Thank you Wedding|Рулони|1|thank%20you%20wedding.jpg
 Item|Thank you White gold Ceasar leaves|Рулони|3|thank%20you%20white%20gold%20cesar%20leaves.jpg
 Item|Thank you White gold flat|Рулони|17|thank%20you%20white%20gold%20flat.jpg
 Item|Thank you White gold leaves|Рулони|0|thank%20you%20white%20gold%20leaves.jpg
